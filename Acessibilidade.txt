@@ -1,0 +1,38 @@
+Recomendações de acessibilidade (eMAG)  - sistema NVDA
+
+
+Menu/conteudo/compo de busca
+-Marcação
+	>1.2 - uso correto Tags: conhecer (Conteúdo/localizador)
+	>1.5 - Barra acessibilidade: (ancoras de navegação)
+	>1.6 - Não Tabela
+	>1.8 - Usar as tags do HTML para diagramação da página as áreas de informação: (HTML diagramação)
+	>1.9 - Não abra novas instacias sem permissão (consentimento) do usuário: Aba/concentimento
+
+-Comportaento
+
+	>2.1 - não utilizar recursos que são navegáveis apenas pelo Mouse: Navegavel pelo teclado
+	>2.3 - Não utualizar a página automaticamente
+	>2.5 - Fornecer alternativa para alterar tempo de atualização.
+	>2.6 - Evitar elementos com intermitência (luzes, movimento)
+
+
+-Conteudo/Informação
+
+	>3.1 - Definir o idioma da principal (<html
+	>3.2 - Informar mudança de idioma para o usuário / alterar o idioma secundário.
+	>3.3 - informar os título dscritivo corretamente, ex.:  "local pagina" - "nome empresa"
+	>3.4 - Informar a localização do usuário na página (breadcrumb)
+	>3.5 - descrever claramente o texto de dentro dos liks, tipo "saiba mais, "veja mais"
+	>3.6 - Descrever conteúdo da imagem atributo "Alt"
+
+-Apresentação/Desing
+
+	>4.1 - oferecer contraste mínimo na página: 4.5:1 wCAG
+	>4.4 - 
+-Multimidia
+	>5.1 - Alternativas sonoras ou textual, informar quando não tiver áudio e quando houver oferecer:  legenda, libras ou texto
+	>5.3 - Audio descrição, exemplo legenda que descrevem o que está acontecendo.
+
+
+-Formulários
